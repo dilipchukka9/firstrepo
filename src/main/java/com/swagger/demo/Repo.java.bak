@@ -2,7 +2,7 @@ package com.swagger.demo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-//merge 
+
 @Repository
 public interface Repo extends JpaRepository<User, Integer> {
 
