@@ -9,5 +9,5 @@ import org.springframework.stereotype.Repository;
 //123
 @Repository
 public interface Repo extends JpaRepository<User, Integer> {
-
+//test 1
 }
