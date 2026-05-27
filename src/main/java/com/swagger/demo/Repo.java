@@ -13,5 +13,9 @@ public interface Repo extends JpaRepository<User, Integer> {
     //sdjfbauidbkaj
     //sdbjhsbdcjbhjcbhjcbhjdscbh
     //sddhfbsjkbfjk
+<<<<<<< HEAD
     //dilip chukka 
+=======
+    //jyfuyjfguy
+>>>>>>> 105e110580dec63ec2cfc234f1eab2111d3eef1e
 }
